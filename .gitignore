@@ -1,0 +1,6 @@
+image.png
+received_image.jpg
+# Ignore PyCharm files
+.idea/
+# Ignore venv
+venv/
